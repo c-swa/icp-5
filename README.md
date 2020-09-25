@@ -29,4 +29,4 @@ Develop a basic Countdown Timer application. It must provide
 a continuously decrementing display of months, days, hours, minutes, and 
 seconds to a "User Entered Event".
 
-**If possible, combine both the To-Do and Countdown Timer into a single applicaiton.**
+**If possible, combine both the To-Do and Countdown Timer into a single application.**
