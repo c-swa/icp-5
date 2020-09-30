@@ -28,6 +28,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -40,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601003543235</updated>
       <workItem from="1601003544724" duration="1344000" />
-      <workItem from="1601427804213" duration="2349000" />
+      <workItem from="1601427804213" duration="5659000" />
     </task>
     <servers />
   </component>
@@ -69,5 +77,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="47" key="SettingsEditor" timestamp="1601434464160">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="47" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1601434464160" />
+    <state x="676" y="30" width="697" height="745" key="dock-window-1" timestamp="1601434924561">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="676" y="30" width="697" height="745" key="dock-window-1/0.30.1366.738@0.30.1366.738" timestamp="1601434924561" />
   </component>
 </project>
